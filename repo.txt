@@ -2,4 +2,4 @@
 beta
 0.0.1-claws
 
-minecraft-server-crasher|https://github.com/narumii/MinecraftCrasher/releases/download/1.0.1/MinecraftCrasher.jar|mcservercrasher.jar
+minecraft-server-crasher|https://github.com/narumii/MinecraftCrasher/releases/download/1.0.1/MinecraftCrasher.jar|mcservercrasher.jar\java -jar mcservercrasher.jar
